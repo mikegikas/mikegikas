@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Mike</h2>
-<h3 align="left">I'm a software engineer who is passionate in learning new things.</h3>
+<h3 align="left">I'm a software engineer who is passionate about learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegikas" alt="mikegikas" /> </p>
 <h3 align="left">Languages and Tools:</h3>
