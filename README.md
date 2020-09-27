@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Mike</h2>
-<h3 align="left">I'm a software engineer who is passionate about learning new things.</h3>
+<h4 align="left">I'm a software engineer who is passionate about learning new things.</h4>
 
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](mikegikas)
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
@@ -36,4 +33,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegikas&hide=Python,Makefile&theme=vue" alt="mikegikas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikegikas&theme=vue&show_icons=true" alt="mikegikas" /></p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikegikas&show_icons=true&theme=vue)
+
+
