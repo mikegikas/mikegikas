@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋, I'm Mike</h2>
 <h3 align="left">I'm a software engineer who is passionate about learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikegikas" alt="mikegikas" /> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](mikegikas)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> </a> 
@@ -32,4 +34,6 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegikas&layout=compact" alt="mikegikas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegikas&theme=vue&" alt="mikegikas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikegikas&theme=vue&show_icons=true" alt="mikegikas" /></p>
